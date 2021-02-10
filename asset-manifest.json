@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dnd-tools/static/css/main.546c31a4.chunk.css",
+    "main.js": "/dnd-tools/static/js/main.b63479a0.chunk.js",
+    "main.js.map": "/dnd-tools/static/js/main.b63479a0.chunk.js.map",
+    "runtime-main.js": "/dnd-tools/static/js/runtime-main.6fe103e7.js",
+    "runtime-main.js.map": "/dnd-tools/static/js/runtime-main.6fe103e7.js.map",
+    "static/css/2.ebdf3335.chunk.css": "/dnd-tools/static/css/2.ebdf3335.chunk.css",
+    "static/js/2.6c7b9780.chunk.js": "/dnd-tools/static/js/2.6c7b9780.chunk.js",
+    "static/js/2.6c7b9780.chunk.js.map": "/dnd-tools/static/js/2.6c7b9780.chunk.js.map",
+    "static/js/3.578754f3.chunk.js": "/dnd-tools/static/js/3.578754f3.chunk.js",
+    "static/js/3.578754f3.chunk.js.map": "/dnd-tools/static/js/3.578754f3.chunk.js.map",
+    "index.html": "/dnd-tools/index.html",
+    "static/css/2.ebdf3335.chunk.css.map": "/dnd-tools/static/css/2.ebdf3335.chunk.css.map",
+    "static/css/main.546c31a4.chunk.css.map": "/dnd-tools/static/css/main.546c31a4.chunk.css.map",
+    "static/js/2.6c7b9780.chunk.js.LICENSE.txt": "/dnd-tools/static/js/2.6c7b9780.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/dnd-tools/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fe103e7.js",
+    "static/css/2.ebdf3335.chunk.css",
+    "static/js/2.6c7b9780.chunk.js",
+    "static/css/main.546c31a4.chunk.css",
+    "static/js/main.b63479a0.chunk.js"
+  ]
+}
